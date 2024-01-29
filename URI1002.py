@@ -1,0 +1,4 @@
+a = float(input())
+area = 3.14159 * a ** 2
+print('A= {}'.format(area))
+
